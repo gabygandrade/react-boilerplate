@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import MaterialIcon from 'react-google-material-icons';
 
 class App extends Component {
   render() {
